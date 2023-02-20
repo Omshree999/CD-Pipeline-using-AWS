@@ -22,13 +22,17 @@ This repository contains a sample Node.js web application built using [Express](
 ## STEP 2: DEPLOY WEB APP
 
 --- Configure and create an AWS Elastic Beanstalk environment
+
 --- Deploy a sample web app to AWS Elastic Beanstalk
+
 --- Test the sample web app 
 
 ## STEP 3: CREATE BUILD PROJECT
 
 --- Configure the AWS CODEBUILD project
+
 --- Create a Build Spec file for the project
+
 --- Test the code build project
 
 ## STEP 4: CREATE DELIVERY PIPELINE
